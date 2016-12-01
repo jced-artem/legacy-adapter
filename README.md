@@ -34,10 +34,11 @@ class myClass
 
 include_once("specialCode.php");
 
-$var2 = function needThis() {
+function needThis() {
     $obj = new myClass();
     return unknownFunctionFromInclude() + $obj->getData();
 }
+$var2 = needThis();
 printr('{"param":' . $var2 . '; "var": ' . $var1 . '}');
 ```
 You can use this legacy file anywhere simply:
