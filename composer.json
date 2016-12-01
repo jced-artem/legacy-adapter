@@ -1,0 +1,20 @@
+{
+    "name": "jced-artem/legacy-adapter",
+    "type": "library",
+    "description": "Flyweight-adapter to use legacy code in moder frameworks with lazy refactor.",
+    "keywords": ["garbage", "wrapper", "include", "require", "refactoring", "legacy", "flyweight", "adapter"],
+    "homepage": "https://github.com/jced-artem",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Jced",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+        "php": ">=5.6.0"
+    }
+}
