@@ -1,5 +1,5 @@
 # legacy-adapter
-Flyweight-adapter to use legacy code in modern frameworks with lazy refactor.
+Flyweight-adapter for using legacy code in modern frameworks with lazy refactor.
 
 ### Install
 ```
