@@ -67,7 +67,7 @@ $myLib->var1 = 'some new value';
 
 // get global functions
 $res1 = $myLib->get_Var2A($param1, $param2);
-$res2 = function needThis();
+$res2 = $myLib->needThis();
 
 // get printr result
 $content = $myLib->getFlyweight()->getContent();
