@@ -1,7 +1,7 @@
 {
     "name": "jced-artem/legacy-adapter",
     "type": "library",
-    "description": "Flyweight-adapter to use legacy code in modern frameworks with lazy refactor.",
+    "description": "Flyweight-adapter for using legacy code in modern frameworks with lazy refactor.",
     "keywords": ["garbage", "wrapper", "include", "require", "refactoring", "legacy", "flyweight", "adapter"],
     "homepage": "https://github.com/jced-artem",
     "license": "MIT",
